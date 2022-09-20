@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string-array name="albumArray">
+        <item>test1</item>
+        <item>test2</item>
+    </string-array>
+    <string-array name="picturesArray">
+        <item>test1</item>
+        <item>test2</item>
+    </string-array>
+</resources>
